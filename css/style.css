@@ -74,6 +74,12 @@ body {
 	width: 100%;
 }
 
+.apps .projectDescription p {
+	margin-top: 10px;
+	text-align: center;
+	font-size: 90%;
+}
+
 .apps .item img {
 	width: 100%;
 	-webkit-transition: all 0.2s linear, 1s;
@@ -91,19 +97,19 @@ body {
 
 .apps .item .icons {
 	position: absolute;
-    width: 90px;
-    height: 40px;
-    left: 40%;
-    top: 50%;
-    margin: -20px auto 0 -47px;
-    text-align: center;
-    z-index: 3;
+  width: 90px;
+  height: 40px;
+  left: 40%;
+  top: 50%;
+  margin: -20px auto 0 -47px;
+  text-align: center;
+  z-index: 3;
 }
 
 .apps .item .icons i {
 	color: #fff;
-    font-size: 20px;
-    margin-top: 9px;
+  font-size: 20px;
+  margin-top: 9px;
 }
 
 .apps .item a {
@@ -225,4 +231,17 @@ body {
 }
 .social-menu ul li:nth-child(3) a:hover {
     background-color: #da723c;
+}
+
+
+
+
+.copyrightSection {
+	background-color: #bbbbbb;
+	color: #fff;
+	padding: 30px 5px;
+}
+
+.copyrightSection p {
+	margin: 0;
 }
