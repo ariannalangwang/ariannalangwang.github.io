@@ -1,6 +1,6 @@
 
 
-##### I built this portfolio website because:  
+#### I built this portfolio website because:  
 
 1) I want a personal website to showcase my side projects.
 
@@ -10,5 +10,6 @@
 This Website is fully responsive.
 
 
-Tech stack used: HTML, CSS & Bootstrap4.
-The website is hosted at: https://ariannalangwang.github.io/.   Check it out! 
+#### Tech stack used: HTML, CSS & Bootstrap4.
+
+The website is hosted at: https://ariannalangwang.github.io/  Check it out!
