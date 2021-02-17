@@ -9,4 +9,4 @@
 
 #### Tech stack used: HTML, CSS & Bootstrap4.
 
-This website is hosted at: https://ariannalangwang.github.io  Check it out!
+This website is hosted at: https://ariannalangwang.github.io.  Check it out!
