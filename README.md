@@ -12,4 +12,4 @@ This Website is fully responsive.
 
 #### Tech stack used: HTML, CSS & Bootstrap4.
 
-The website is hosted at: https://ariannalangwang.github.io/  Check it out!
+The website is hosted at: https://ariannalangwang.github.io  Check it out!
