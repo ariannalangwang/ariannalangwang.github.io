@@ -1,5 +1,4 @@
 
-
 #### I built this portfolio website because:  
 
 1) I wanted a personal website to showcase my side projects.
